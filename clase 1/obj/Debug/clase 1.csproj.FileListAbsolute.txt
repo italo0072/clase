@@ -1,0 +1,10 @@
+C:\Users\lobo1\source\repos\clase 1\clase 1\bin\Debug\clase 1.exe.config
+C:\Users\lobo1\source\repos\clase 1\clase 1\bin\Debug\clase 1.exe
+C:\Users\lobo1\source\repos\clase 1\clase 1\bin\Debug\clase 1.pdb
+C:\Users\lobo1\source\repos\clase 1\clase 1\bin\Debug\ClassLibrary2.dll
+C:\Users\lobo1\source\repos\clase 1\clase 1\bin\Debug\ClassLibrary2.pdb
+C:\Users\lobo1\source\repos\clase 1\clase 1\obj\Debug\clase 1.csprojAssemblyReference.cache
+C:\Users\lobo1\source\repos\clase 1\clase 1\obj\Debug\clase 1.csproj.CoreCompileInputs.cache
+C:\Users\lobo1\source\repos\clase 1\clase 1\obj\Debug\clase 1.csproj.CopyComplete
+C:\Users\lobo1\source\repos\clase 1\clase 1\obj\Debug\clase 1.exe
+C:\Users\lobo1\source\repos\clase 1\clase 1\obj\Debug\clase 1.pdb
